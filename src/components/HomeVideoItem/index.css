@@ -1,0 +1,66 @@
+.hicon1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.hicon2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.img11 {
+  height: 80px;
+  width: 160px;
+}
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin: 0;
+  text-decoration: none;
+}
+.d {
+  font-size: 30px;
+  color: #616e7c;
+}
+
+.piu {
+  height: 40px;
+  width: 40px;
+}
+.lconn {
+  height: 250px;
+  width: 175px;
+}
+.tw {
+  color: white;
+  font-size: 10px;
+  margin: 0;
+}
+.tb {
+  color: black;
+  font-size: 10px;
+  margin-top: 5px;
+}
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin-top: 0px;
+  text-decoration: none;
+}
+.tir {
+  font-size: 10px;
+  color: #616e7c;
+  display: flex;
+  text-decoration: none;
+}
+
+.coo {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.vcol {
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,55 @@
+.twh {
+  color: white;
+  font-size: 20px;
+  padding-left: 25px;
+}
+.tbh {
+  color: black;
+  font-size: 20px;
+  padding-left: 25px;
+}
+.hocon1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+}
+.r {
+  display: flex;
+  flex-direction: row;
+}
+.hocon11 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #231f20;
+}
+.gro1 {
+  height: 60px;
+  width: 100%;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+.gro2 {
+  height: 60px;
+  width: 100%;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: row;
+  background-color: #1e293b;
+}
+
+.co {
+  display: flex;
+  flex-direction: column;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

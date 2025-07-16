@@ -1,0 +1,27 @@
+.tw {
+  color: white;
+  font-size: 10px;
+}
+.tb {
+  color: black;
+  font-size: 10px;
+}
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin: 0;
+  text-decoration: none;
+}
+.gcon1 {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.lcon {
+  display: flex;
+}
+.gimg {
+  margin: 20px;
+  height: 250px;
+  width: 150px;
+}

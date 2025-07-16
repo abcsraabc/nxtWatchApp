@@ -1,0 +1,77 @@
+.hocon1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+}
+.hocon11 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background-color: black;
+}
+.scl {
+  display: flex;
+  flex-direction: row;
+}
+.gro1 {
+  height: 60px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+.gro2 {
+  height: 60px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  background-color: #1e293b;
+}
+.twh {
+  color: white;
+  font-size: 18px;
+}
+.tbh {
+  color: black;
+  font-size: 18px;
+}
+.co {
+  display: flex;
+  flex-direction: column;
+
+  width: 70%;
+}
+.recon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rebut1 {
+  height: 40px;
+  width: 150px;
+  background-color: blue;
+  border: none;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin: 0;
+  text-decoration: none;
+}
+
+.remove {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}

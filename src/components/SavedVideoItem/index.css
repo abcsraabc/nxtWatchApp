@@ -1,0 +1,53 @@
+.tcon11 {
+  display: flex;
+  flex-direction: row;
+}
+.tcon2 {
+  display: flex;
+  flex-direction: column;
+}
+.twh {
+  color: white;
+  font-size: 15px;
+  text-align: left;
+}
+.tbh {
+  color: black;
+  font-size: 15px;
+}
+.timg11 {
+  height: 200px;
+  width: 300px;
+}
+.lcon11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rebut1 {
+  height: 40px;
+  width: 150px;
+  background-color: blue;
+  border: none;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin: 0;
+  text-decoration: none;
+}
+
+.remove {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.vcol {
+  display: flex;
+  flex-direction: row;
+}

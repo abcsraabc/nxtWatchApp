@@ -1,0 +1,43 @@
+.ti {
+  font-size: 10px;
+  color: #616e7c;
+  margin: 0;
+  text-decoration: none;
+}
+.conr {
+  display: flex;
+  flex-direction: column;
+}
+.hicon22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.rocon {
+  display: flex;
+  flex-direction: row;
+
+  margin-right: 10px;
+}
+.hr {
+  width: 100%;
+  color: #616e7c;
+}
+.tw {
+  color: white;
+  font-size: 10px;
+}
+.tb {
+  color: black;
+  font-size: 10px;
+}
+.imgb {
+  height: 50px;
+  width: 50px;
+}
+
+.vcol {
+  display: flex;
+  flex-direction: row;
+}

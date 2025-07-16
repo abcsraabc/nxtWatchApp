@@ -1,0 +1,165 @@
+.hocon1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+}
+.hocon11 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background-color: #181818;
+}
+.r {
+  display: flex;
+  flex-direction: row;
+}
+.into {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-self: flex-end;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hbut {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 300px;
+  width: 200px;
+  border: none;
+  background-color: transparent;
+}
+.white {
+  color: white;
+  font-size: 30px;
+}
+.white {
+  color: black;
+  font-size: 30px;
+}
+.fcon1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fh1 {
+  font-size: 28px;
+  color: white;
+}
+.fbut {
+  height: 40px;
+  width: 120px;
+  border: none;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+.inpt2 {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: black;
+}
+.inpt1 {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: white;
+}
+.inputcon1 {
+  height: 50px;
+  width: 200px;
+  border: 1px solid #616e7c;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.obut {
+  height: 50px;
+  width: 40px;
+
+  border: 1px solid #616e7c;
+}
+.obut2 {
+  color: white;
+  background-color: black;
+}
+.obut1 {
+  color: black;
+  background-color: white;
+}
+.banner1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  height: 200px;
+  width: 700px;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.banner2 {
+  display: none;
+}
+
+.bh1 {
+  font-size: 13px;
+  color: black;
+}
+.pim {
+  height: 50px;
+  width: 120px;
+}
+.gbut {
+  height: 40px;
+  width: 120px;
+  border: 1px solid black;
+  background-color: white;
+}
+.co {
+  display: flex;
+  flex-direction: column;
+}
+
+.tw {
+  color: white;
+  font-size: 10px;
+}
+.tb {
+  color: black;
+  font-size: 10px;
+}
+.fimg {
+  height: 400px;
+  width: 500px;
+}
+.bu {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+.failimgg {
+  height: 200px;
+  width: 200px;
+}
+.dco {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+}
